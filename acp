@@ -1,0 +1,23 @@
+# --- Step 1 & 2: Creating variables and storing birthday dates ---
+mom_birthday = "October 14th"
+dad_birthday = "March 3rd"
+sister_birthday = "December 25th"
+best_friend_birthday = "July 19th"
+favorite_superhero_birthday = "April 17th"  # Tony Stark!
+
+# --- Step 3: Printing the values stored inside the variables ---
+print("--- Family & Friends Birthdays ---")
+print("Mom's Birthday is:")
+print(mom_birthday)
+
+print("Dad's Birthday is:")
+print(dad_birthday)
+
+print("My sister's Birthday is:")
+print(sister_birthday)
+
+print("My best friend's Birthday is:")
+print(best_friend_birthday)
+
+print("Iron Man's Birthday is:")
+print(favorite_superhero_birthday)
